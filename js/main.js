@@ -1,0 +1,1 @@
+alert('Scrypt działa prawidłowo');
